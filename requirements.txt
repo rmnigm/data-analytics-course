@@ -1,0 +1,28 @@
+# jupyter
+notebook==6.5.2
+jupyterlab==3.6.1
+rise==5.7.1
+
+# data
+scipy==1.9.1
+numpy==1.23.2  # numba max version 1.23.2
+pandas==1.4.4
+scikit-learn==1.2.1
+catboost==1.1.1
+
+# visualisation
+matplotlib==3.5.3
+seaborn==0.12.0
+
+# other stuff
+fastapi==0.82.0
+SQLAlchemy==1.4.41
+
+# testing and linting
+flake8==5.0.4
+mypy==0.971
+pytest==7.1.3
+pytest-timeout==2.1.0
+pytest-cov==3.0.0
+psutil==5.9.2
+
