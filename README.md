@@ -39,9 +39,9 @@ And you are perfect, congratulations!
 
 ## Lectures
 To run the lectures, you need to use classical jupyter notebook interface with RISE package installed.
+
 You can launch it via console:
 ```bash
 (data_env)$ jupyter notebook
 ```
 After that you will have a slideshow button in upper panel and slideshow option in cell parameters.
-
