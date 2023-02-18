@@ -1,6 +1,9 @@
 # Data Analytics Course
 ## Description
-Crash course on data analytics (or data science) for students planning to become interns and junior specialists. Course is heavily impacted by author's subjective opinions and work experience. Feel free to ask anything in [TG channel](https://t.me/pm_student_circle) and [Discord server](https://discord.gg/5YxQjAcusy)!
+Crash course on data analytics (or data science) for students planning to become interns and junior specialists. Course is heavily impacted by author's subjective opinions and work experience.
+- Lectures are available on [Youtube](https://youtube.com/playlist?list=PLLMnF0ZYLz5raMMeqVsiqCVdl4XFFEN1C)
+- Feel free to ask anything in [telegram channel](https://t.me/pm_student_circle) or via email
+
 ## Topics
 - Data Structures in Python
 - *Numpy, Pandas*, basics of dataviz
