@@ -1,8 +1,24 @@
 # Data Analytics Course
-Crash course on data analytics (or data science) for students planning to become interns and junior specialists. Course is heavily impacted by author's subjective opinions and work experience.
+## Description
+Crash course on data analytics (or data science) for students planning to become interns and junior specialists. Course is heavily impacted by author's subjective opinions and work experience. Feel free to ask anything in [TG channel](https://t.me/pm_student_circle) and [Discord server](https://discord.gg/5YxQjAcusy)!
+## Topics
+- Data Structures in Python
+- *Numpy, Pandas*, basics of dataviz
+- Testing, Logging, CLI
+- Packages, Modules, Import system
+- Generators, Map Reduce, working with large data
+- SQL
+- Probability theory
+- Statistical tests and A/B
+- Applied statistics with *scipy.stats*
+- Metric design
+- Case studies
+- Basic ML with *scikit-learn* and *Catboost*
+- Inference of DL models for image / text processing
+- Grokking algorithms interview
+- Grokking analytics case interview
 
-
-## How to setup
+## Setup guide
 - Clone repository to local machine
 - Install Pyenv using [this guide](https://github.com/pyenv/pyenv#installation)
 - Install Python, used in project
